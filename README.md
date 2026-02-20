@@ -1,3 +1,1 @@
-# calcular_media #nota_final
-code feito para calcular e tirar a media de notas,para verificar se o aluno está 
-(aprovado) ou (reprovado)
+Converti seu Portugol para JavaScript substituindo leia por prompt e real/caracter por let, garantindo que as notas fossem transformadas em números com parseFloat. A lógica de cálculo permaneceu a mesma, mas troquei o se/senao por if/else e usei o console.log para exibir o resultado final de forma automática no navegador. Toda a estrutura foi adaptada para que o código entenda textos e números corretamente durante a execução.
